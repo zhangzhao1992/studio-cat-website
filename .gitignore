@@ -1,5 +1,6 @@
 *.docx
 *.pdf
+*.lnk
 qa/
 Thumbs.db
 .DS_Store
